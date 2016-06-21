@@ -1,0 +1,37 @@
+.footer_menu{
+	width:100%;
+	background-color:#444;
+}
+a{
+	color:#fff;
+	text-decoration:none;
+}
+a:hover{
+	color:#fff;
+	text-decoration:underline;
+}
+.text-justify {
+  text-align: justify;
+}
+.decor_bg{
+	color:#fff;
+}
+.decor_row{
+	margin-top:80px; 
+	margin-bottom:100px;
+}
+.popup{
+	width:100px;
+	height:100px;
+	margin-left:auto;
+	margin-right:auto;
+	overflow:hidden;
+	display:hidden;
+}
+.decor_anchor{
+	color:#0000ff;
+}
+.decor_anchor:hover{
+	text-decoration:underline;
+	color:#444;
+}
