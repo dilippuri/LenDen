@@ -1,7 +1,7 @@
 ***************************************************************
 IDEA
 ***************************************************************
-A online system which keeps track of money dues of a person.
+A online system which keeps track of money dues of a person with his/her friends.
 
 ***************************************************************
 FUNCTIONALITIES
